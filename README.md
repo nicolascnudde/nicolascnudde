@@ -10,28 +10,32 @@
 const nicolas = {
   pronouns: 'he' | 'him',  
   birthday: 625755600000,
-  technologies: [
+  languages: [
+    'HTML5',
+    'CSS3/Sass',
     'JavaScript',
-    'HTML',
-    'CSS'
+    'TypeScript',
+    'GraphQL',
+    'PHP',
+    'SQL',
   ],
   tools: [
     'React',
+    'React Native',
+    'Next.js',
+    'Vue.js',
     'Node.js',
-    'Sass',
-    'GitHub',
+    'NestJS',
+    'Keystone',
+    'Firebase',
+    'Git',
+    'Drupal',
     'WordPress',
-    'Sequelize',
     '11ty',
     'Adobe XD',
-    'VSC'
+    'Figma',
   ],
-  currentlyLearning: [
-    'TypeScript',
-    'GraphQL',
-    'PHP'
-  ]
-}
+};
 ```
 
 ## :busts_in_silhouette:​ Social
