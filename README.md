@@ -2,7 +2,7 @@
 
 # Hey there :wave: I'm Nicolas!
 
-*Associate's Degree in Programming student at [Artevelde University of Applied Sciences](https://www.arteveldehs.be).*
+I'm a *full stack developer* that recently graduated from the [Artevelde University of Applied Sciences](https://www.arteveldehs.be).
 
 ## :sunglasses: About
 
