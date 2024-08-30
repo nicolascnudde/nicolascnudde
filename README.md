@@ -1,10 +1,10 @@
 ![Nicolas](https://imgur.com/UkWlfHJ.png)
 
-# Hey there :wave: I'm Nicolas!
+# Hey there 👋: I'm Nicolas!
 
 I'm a full stack developer that loves to build pixel-perfect, engaging, and accessible digital experiences.
 
-## :sunglasses: About
+## 😎: About
 
 ```js
 const nicolas = {
@@ -38,7 +38,7 @@ const nicolas = {
 };
 ```
 
-## :busts_in_silhouette:​ Social
+## 👥:​ Social
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolascnudde)
 
@@ -46,6 +46,6 @@ const nicolas = {
 
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0032487364219)
 
-## ​:chart_with_upwards_trend: Stats
+## ​📊: Stats
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascnudde&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=79c0ff&bg_color=161b22)](https://github.com/nicolascnudde/github-readme-stats)
