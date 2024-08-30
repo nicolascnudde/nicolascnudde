@@ -2,7 +2,7 @@
 
 # Hey there :wave: I'm Nicolas!
 
-I'm a *full stack developer* that recently graduated from the [Artevelde University of Applied Sciences](https://www.arteveldehs.be).
+I'm a full stack developer that loves to build pixel-perfect, engaging, and accessible digital experiences.
 
 ## :sunglasses: About
 
@@ -49,5 +49,3 @@ const nicolas = {
 ## ​:chart_with_upwards_trend: Stats
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascnudde&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=79c0ff&bg_color=161b22)](https://github.com/nicolascnudde/github-readme-stats)
-
-[![](https://github-readme-stats.vercel.app/api?username=nicolascnudde&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=79c0ff&bg_color=161b22)](https://github.com/nicolascnudde/github-readme-stats)
